@@ -186,7 +186,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/workadventure_v2\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -218,7 +218,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/workadventure_v2\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -331,7 +331,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/workadventure_v2\/tileset_own_jas.png",
+         "image":"tileset_own_jas.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
